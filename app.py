@@ -36,7 +36,7 @@ def makeWebhookResult(req):
 
     due = {'123':100, '234':200, '345':300, '456':400, '567':500}
 
-    speech = "The cost of shipping to " + policyid + " is " + str(due[policyid]) + " dollars."
+    speech = "Amount Due for the policy id " + policyid + " is " + str(due[policyid]) + " dollars."
 
     print("Response:")
     print(speech)
