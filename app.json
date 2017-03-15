@@ -1,0 +1,7 @@
+{
+  "name": "API.AI Shipping Costs Webhook",
+  "description": "API.AI Policy Due Webhook Sapmple",
+  "repository": "https://github.com/kamalkumarp/checkpolicyinfo",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"]
+}
